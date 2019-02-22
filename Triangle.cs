@@ -28,7 +28,7 @@ namespace MathFuctionLibrary
 
             HalfCircumference = (a + b + c) / 2;
 
-            Area = Math.Abs(HalfCircumference * (HalfCircumference - a) * (HalfCircumference - b) * (HalfCircumference - c));
+            Area = Math.Sqrt(HalfCircumference * (HalfCircumference - a) * (HalfCircumference - b) * (HalfCircumference - c));
 
             return Area;
 
