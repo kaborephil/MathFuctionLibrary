@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\bin\Debug\MathFuctionLibrary.dll
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\bin\Debug\MathFuctionLibrary.pdb
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\obj\Debug\MathFuctionLibrary.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\obj\Debug\MathFuctionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\obj\Debug\MathFuctionLibrary.dll
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\obj\Debug\MathFuctionLibrary.pdb

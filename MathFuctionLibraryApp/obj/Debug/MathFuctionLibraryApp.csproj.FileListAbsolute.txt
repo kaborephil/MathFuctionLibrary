@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\MathFuctionLibraryApp\bin\Debug\MathFuctionLibraryApp.exe.config
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\MathFuctionLibraryApp\bin\Debug\MathFuctionLibraryApp.exe
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\MathFuctionLibraryApp\bin\Debug\MathFuctionLibraryApp.pdb
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\MathFuctionLibraryApp\bin\Debug\MathFuctionLibrary.dll
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\MathFuctionLibraryApp\bin\Debug\MathFuctionLibrary.pdb
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\MathFuctionLibraryApp\obj\Debug\MathFuctionLibraryApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\MathFuctionLibraryApp\obj\Debug\MathFuctionLibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\MathFuctionLibraryApp\obj\Debug\MathFuctionLibraryApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\MathFuctionLibraryApp\obj\Debug\MathFuctionLibraryApp.exe
+C:\Users\Administrator\Desktop\Source\MathFuctionLibrary\MathFuctionLibrary\MathFuctionLibraryApp\obj\Debug\MathFuctionLibraryApp.pdb

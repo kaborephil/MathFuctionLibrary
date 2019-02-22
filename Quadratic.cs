@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MathFuctionLibrary
 {
-    class Quadratic
+    public class Quadratic
     {
         public int A { get; set; }
         public int B { get; set; }

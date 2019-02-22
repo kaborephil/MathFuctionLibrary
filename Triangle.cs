@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MathFuctionLibrary
 {
-    class Triangle
+    public class Triangle
     {
         public int SideA { get; set; }
         public int SideB { get; set; }

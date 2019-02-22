@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MathFuctionLibrary
 {
-    class Hemisphere
+    public class Hemisphere
     {
         public double Radius { get; set; }
 
