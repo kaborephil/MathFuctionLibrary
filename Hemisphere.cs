@@ -20,7 +20,7 @@ namespace MathFuctionLibrary
                 Console.WriteLine(" Please enter a positive number");
             }
 
-            Volume = ((4.0 / 3) * Math.PI * Math.Sqrt(radius) * radius) / 2;
+            Volume = ((4.0 / 3.0) * Math.PI * (radius * radius * radius)) / 2;
 
             return Volume;
         }
